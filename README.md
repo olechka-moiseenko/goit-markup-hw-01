@@ -22,6 +22,12 @@ VS code, npm, .... (IDE, утилиты итд.)
 
 ## Как запустить
 
+### Загрузка проекта
+
+```bash
+git clone https://github.com/olechka-moiseenko/goit-markup-hw-01
+```
+
 ### Необходимые компоненты
 
 Нужен NodeJS, установить с сайта [Download NodeJS](https://nodejs.org/en/download) или через пакетный менеджер, например:
